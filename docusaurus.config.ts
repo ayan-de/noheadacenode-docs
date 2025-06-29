@@ -88,7 +88,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/ayan-de/noheadacenode',
+          href: 'https://github.com/ayan-de/NoHeadacheNode',
           label: 'GitHub',
           position: 'right',
         },
@@ -132,7 +132,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/ayan-de/noheadacenode',
+              href: 'https://github.com/ayan-de/NoHeadacheNode',
             },
           ],
         },
